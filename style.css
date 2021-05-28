@@ -116,10 +116,6 @@ h2 {
 
 /* CORNER RAIDUS */
 
-.corner-radius {
-    vertical-align: bottom; 
-}
-
 .portapress-corner-notcher {
     margin-left: 50px;
     margin-top: 50px;
@@ -177,8 +173,4 @@ h2 {
     bottom: 500px;
     margin-left: 650px;
     vertical-align: bottom;
-}
-
-.body{
-
 }
